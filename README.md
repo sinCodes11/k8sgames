@@ -1,4 +1,13 @@
-# K8s Games
+<div align="center">
+  <img src="assets/banner.svg" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/game-3D%20browser-ff8800?style=flat-square" alt="game">
+  <img src="https://img.shields.io/badge/k8s-kubectl-326ce5?style=flat-square" alt="k8s">
+  <img src="https://img.shields.io/badge/install-none%20needed-00ff88?style=flat-square" alt="install">
+</p>
+
 
 Learn Kubernetes by playing. Deploy pods, fix CrashLoopBackOff, type real kubectl commands — all in a 3D sim that runs in your browser.
 
